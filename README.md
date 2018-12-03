@@ -43,7 +43,7 @@ Steps:
   6. Using a small screwdriver connect the bottom of the box to the lid with the hinge. 
   
   State Diagram:
-  <img src="photos/StateDiagram.XML" width="48%"> 
+  <img src="photos/StateDiagram.png" width="48%"> 
   
   Pictures of the Box:
   
