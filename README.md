@@ -48,7 +48,7 @@ Steps:
   Pictures of the Box:
   
   Front of the Box <br/>                                   
-   <img src="photos/SideView.JPG" width="45%">        
+   <img src="photos/FrontBox.JPG" width="45%">        
    
    Side of the Box<br>
    <img src="photos/SideView.jpg" width="45%"> 
