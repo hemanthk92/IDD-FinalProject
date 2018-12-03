@@ -47,19 +47,19 @@ Steps:
   
   Pictures of the Box:
   
-  Front of the Box                                    
+  Front of the Box <br>                                   
    <img src="photos/FrontBox.JPG", width ="45%">        
    
-   Side of the Box
+   Side of the Box<br>
    <img src="photos/SideBox.JPG" width="40%"> 
    
-   Servo Arms when Box is Unlocked 
+   Servo Arms when Box is Unlocked <br>
    <img src="photos/Unlocked.JPG" width="40%"> 
    
-   Servo Arms when Box is Locked 
+   Servo Arms when Box is Locked <br>
    <img src="photos/LockedWithoutLedge.JPG" width="40%"> 
    
-   Servo Arm sitting on the ledge of the box when locked 
+   Servo Arm sitting on the ledge of the box when locked <br>
    <img src="photos/ServoLedge.JPG" width="40%"> 
   
   Final Video:
