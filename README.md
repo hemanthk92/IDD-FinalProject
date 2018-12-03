@@ -42,7 +42,7 @@ Steps:
   5. Connect the LED to the ribon cable and place it in the mounted section of the box. 
   6. Using a small screwdriver connect the bottom of the box to the lid with the hinge. 
   
-  State Diagram:
+  State Diagram: <br>
   <img src="photos/StateDiagram.png" width="48%"> 
   
   Pictures of the Box:
