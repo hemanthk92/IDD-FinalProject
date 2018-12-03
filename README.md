@@ -53,8 +53,8 @@ Steps:
    Side of the Box<br>
    <img src="photos/SideBox.JPG" width="40%"> 
    
-   Servo Arms when Box is Unlocked Servo Arms when Box is Locked <br>
-   <img src="photos/Unlocked.JPG" width="40%">    <img src="photos/LockedWithoutLedge.JPG" width="40%"> 
+   Servo Arms when Box is Unlocked                Servo Arms when Box is Locked <br>
+   <img src="photos/Unlocked.JPG" width="45%">    <img src="photos/LockedWithoutLedge.JPG" width="45%"> 
    
    Servo Arm sitting on the ledge of the box when locked <br>
    <img src="photos/ServoLedge.JPG" width="40%"> 
