@@ -47,8 +47,11 @@ Steps:
   
   Pictures of the Box:
   
-  Front of the Box                                    Side of the Box
-   <img src="photos/FrontBox.JPG" width="40%">        <img src="photos/SideBox.JPG" width="40%"> 
+  Front of the Box                                    
+   <img src="photos/FrontBox.JPG">        
+   
+   Side of the Box
+   <img src="photos/SideBox.JPG" width="40%"> 
   
   Final Video:
   
