@@ -47,6 +47,8 @@ Steps:
   
   Pictures of the Box:
   
+  Front of the Box                                    Side of the Box
+   <img src="photos/FrontBox.JPG" width="48%">        <img src="photos/SideBox.JPG" width="48%"> 
   
   Final Video:
   
