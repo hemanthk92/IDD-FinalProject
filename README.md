@@ -8,8 +8,7 @@ Team: Hemanth Kondapalli <br>
 
 Rough Form: <br>
 <img src="photos/front.JPG" width="50%">
-![alt text](photos/front.JPG) <br>
-![alt text](photos/lcd_button.JPG) <br>
+<img src="photos/lcd_button.JPG" width="50%">
 
 Expected Parts: <br>
   1. Materials to build box: Wood, Nails, etc
