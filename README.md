@@ -51,7 +51,7 @@ Steps:
    <img src="photos/FrontBox.JPG", width ="45%">        
    
    Side of the Box<br>
-   <img src="photos/SideBox.JPG" width="45%"> 
+   <img src="photos/SideView.JPG" width="45%"> 
    
    Servo Arm when Locked and Unlocked<br>
    <img src="photos/Unlocked.JPG" width="45%">    <img src="photos/LockedWithoutLedge.JPG" width="45%"> 
