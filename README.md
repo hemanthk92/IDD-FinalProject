@@ -7,7 +7,7 @@ Idea: To build a digital lock box that opens when a correct combination of pins 
 Team: Hemanth Kondapalli <br>
 
 Rough Form: <br>
-<img src="photos/front.JPG" width="40%"> <img src="photos/lcd_button.JPG" width="40%">
+<img src="photos/front.JPG" width="45%"> <img src="photos/lcd_button.JPG" width="45%">
 
 Expected Parts: <br>
   1. Materials to build box: Wood, Nails, etc
