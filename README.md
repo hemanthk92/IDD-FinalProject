@@ -25,9 +25,9 @@ I first have to laser cut the wood into a box tempalte. In this box template I w
 Interaction Plan: <br>
 Users will be able to input a combination with the buttons on the box. The combination they enter will be displayed on the LED. If the combination is correct the box will open.
 
-## Final Project
+## Final Product
 
-Parts: <br<
+Parts: 
   1. 1/4 inch plywood 
   2. Hinge
   3. Extra Long Ribbon cable
@@ -38,8 +38,18 @@ Steps:
   1. Design a template on adobe illustrator for a box with a hinge and a ledge. Make sure the box has groves and edges which allow for parts to be wood glued togther. This should include measurements and appropriate space for the led screen, pins, arduino, servo motors and usb cable power connection. Iterate several times with carboard before you cut the wood.
   2. Build a circuit on the arduino board. The circuit should include the LED (connected via ribbon cable), 3 switch buttons and 2 servo motors. The circuit should allow for a user to input a 3 digit combination on the pins and if correct the servo should rotate.
   3. Laser cut the wood and wood glue the parts together. 
-  4. Place the arduino board in the box and attach the servo motors to top portions of the box where the ledge will sit. Place and ensure that the motors are located and can rotate in such a way that they can enter both the locked and unlocked state as shown in the picture below.
+  4. Place the arduino board in the box and attach the servo motors to top portions of the box where the ledge will sit. Place and ensure that the motors are located and can rotate in such a way that they can enter both the locked and unlocked state as shown in the pictures below.
   5. Connect the LED to the ribon cable and place it in the mounted section of the box. 
   6. Using a small screwdriver connect the bottom of the box to the lid with the hinge. 
+  
+  State Diagram:
+  <img src="photos/StateDiagram.XML" width="48%"> 
+  
+  Pictures of the Box:
+  
+  
+  Final Video:
+  
+  
   
   
