@@ -7,7 +7,7 @@ Idea: To build a digital lock box that opens when a correct combination of pins 
 Team: Hemanth Kondapalli <br>
 
 Rough Form: <br>
-<img src="photos/front.JPG" width="50">
+<img src="photos/front.JPG" width="50%">
 ![alt text](photos/front.JPG) <br>
 ![alt text](photos/lcd_button.JPG) <br>
 
