@@ -9,7 +9,7 @@ Team: Hemanth Kondapalli <br>
 Rough Form: <br>
 ![alt text](photos/front.JPG) <br>
 ![alt text](photos/lcd_button.JPG) <br>
-<img src="https://github.com/favicon.ico" width="48">
+<img src="https://github.com/favicon.ico" width="5">
 Expected Parts: <br>
   1. Materials to build box: Wood, Nails, etc
   2. Hinge
