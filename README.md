@@ -29,10 +29,14 @@ Users will be able to input a combination with the buttons on the box. The combi
 
 Parts: 
   1. 1/4 inch plywood 
-  2. Hinge
-  3. Extra Long Ribbon cable
+  2. Small Hinge
+  3. Ribbon cable with extra pins
   4. Switch Buttons
   5. Solder wire
+  6. Wood Glue
+  7. Super Glue
+  8. LED
+  9. Servo Motor
   
 Steps:
   1. Design a template on adobe illustrator for a box with a hinge and a ledge. Make sure the box has groves and edges which allow for parts to be wood glued togther. This should include measurements and appropriate space for the led screen, pins, arduino, servo motors and usb cable power connection. Iterate several times with carboard before you cut the wood.
