@@ -52,6 +52,15 @@ Steps:
    
    Side of the Box
    <img src="photos/SideBox.JPG" width="40%"> 
+   
+   Servo Arms when Box is Unlocked 
+   <img src="photos/Unlocked.JPG" width="40%"> 
+   
+   Servo Arms when Box is Locked 
+   <img src="photos/LockedWithoutLedge.JPG" width="40%"> 
+   
+   Servo Arm sitting on the ledge of the box when locked 
+   <img src="photos/ServoLedge.JPG" width="40%"> 
   
   Final Video:
   
