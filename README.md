@@ -50,7 +50,7 @@ Steps:
   
   Final Video:
   
-  (Link to Video)[https://youtu.be/pa-ISmkXEoo]
+  [Link to Video](https://youtu.be/pa-ISmkXEoo)
   
   
   
